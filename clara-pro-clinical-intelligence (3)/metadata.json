@@ -1,9 +1,0 @@
-
-{
-  "name": "CLARA Pro Clinical Intelligence",
-  "description": "Enterprise-grade Clinical Language Assistant with AI Triage, Vitals Tracking, Predictive Analytics, and Multi-modal Synthesis.",
-  "requestFramePermissions": [
-    "microphone",
-    "geolocation"
-  ]
-}
